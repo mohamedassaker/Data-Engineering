@@ -40,4 +40,4 @@ i.e change in number of rows/columns, change in distribution, etc. and commentin
 Identify an additional feature that you could add to the data that would help better understand the dataset and give you further insights. More weather information were fetched.
 
 # Milestone 3
-Orchestrated the tasks performed in milestone 1 and 2 using Airflow in Docker. In addition to orchestrating these tasks in Airflow, load was loaded to both csv files(lookup and cleaned dataset) to postgres database as 2 separate tables. A dashboard was created and presented in a web interface (using dash package in Python).
+Orchestrated the tasks performed in milestone 1 and 2 using Airflow in Docker. In addition to orchestrating these tasks in Airflow, loading data to both csv files(lookup and cleaned dataset) to postgres database as 2 separate tables. A dashboard was created and presented in a web interface (using dash package in Python).
